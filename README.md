@@ -1,1 +1,1 @@
-# kubernetes
+# 由于国内无法获取k8s的docker镜像，通过自建dockerfile指向k8s镜像曲线救国
